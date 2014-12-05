@@ -13,3 +13,7 @@ Grading Rubric
 | Use of GitHub | On time (check system), late |  | 10 |  | COB L40 |
 | Code Style | On time(check system), late |  | 10 |  | COB L40 |
 | README | On time(check system), late |  | 10 |  | COB L40 |
+
+[(IMG_4493.JPG)]!
+
+[(IMG_4494.JPG)]!
